@@ -19,4 +19,5 @@ atividade-git-pipeline/
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Documentação
 
+Adicionando linha para realizar a atividade
 ````
